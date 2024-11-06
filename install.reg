@@ -1,4 +1,4 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
-"dell.run.status"="C:\\users\\%username%\\links\\mods\\dll.start.bat"
+"dell.run.status"="C:\\users\\kinder\\links\\mods\\dll.start.bat"
